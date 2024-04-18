@@ -1,4 +1,4 @@
-- 👋 Welcome to ABdirauf Ahmed's GitHub!
+- 👋 Welcome to Abdirauf Ahmed's GitHub!
 
 About Me
 Hello there! I'm Abdirauf Ahmed, a data enthusiast with a knack for turning raw information into actionable insights. My journey in the world of data encompasses various domains, from healthcare to risk analysis, all powered by the versatile toolset of R.

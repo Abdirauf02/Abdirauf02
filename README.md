@@ -15,7 +15,7 @@ Blood Pressure and Intervention Project: Investigating the effects of diet, life
 Quantitative Risk Analysis Project: Analyzing the quantitative risk associated with the introduction of E. multilocularis into the UK, employing advanced risk analysis techniques in R.
 CHD Project: Predicting coronary heart disease (CHD) and exploring variability using logistic regression and principal component analysis (PCA) techniques in R.
 Get in Touch
-I'm always eager to connect with fellow data enthusiasts, whether it's to discuss potential collaborations, exchange ideas, or simply geek out over the latest developments in the field. Feel free to reach out to me via [Your Preferred Contact Method]!
+I'm always eager to connect with fellow data enthusiasts, whether it's to discuss potential collaborations, exchange ideas, or simply geek out over the latest developments in the field. Feel free to reach out to me via email abdirauf_12@hotmail.com!
 
 Let's explore the data-driven world together! 
 
